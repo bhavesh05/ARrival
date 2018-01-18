@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34495e</color>
+    <color name="colorPrimaryDark">#2c3e50</color>
+    <color name="colorAccent">#3498db</color>
+    <color name="card_text">#4c4c4c</color>
+    <color name="mins5">#EF5350</color>
+    <color name="mins10">#FFEE58</color>
+    <color name="mins15">#66BB6A</color>
+    <color name="hive">#ecf0f1</color>
+    <color name="card_content_main_bg">#005C6BC0</color>
+    <color name="bus_img_color">#9575CD</color>
+    <color name="bg_start_color">#95a5a6</color>
+</resources>

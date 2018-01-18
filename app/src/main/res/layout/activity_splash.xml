@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.p532.arbusschedules.SplashActivity"
+    android:background="@drawable/splash_bg">
+
+    <ImageView
+        android:id="@+id/splash_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_arrival_logo"
+        android:layout_marginTop="@dimen/splash_img_margin_top"
+        android:layout_marginLeft="@dimen/splash_img_margin_left_right"
+        android:layout_marginRight="@dimen/splash_img_margin_left_right"/>
+
+    <com.comix.overwatch.HiveProgressView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/splash_loading"
+        android:layout_below="@id/splash_logo"
+        android:layout_width="@dimen/splash_loading_size"
+        android:layout_height="@dimen/splash_loading_size"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/splash_loading_margin_top"
+        android:layout_marginBottom="@dimen/splash_loading_margin_bottom"
+        android:layout_gravity="center"
+        app:hive_animDuration="3000"
+        app:hive_color="@color/hive"
+        app:hive_maxAlpha="255"
+        app:hive_rainbow="false"
+        app:hive_cornerRadius="8"
+        app:hive_shrink="true" />
+
+</RelativeLayout>

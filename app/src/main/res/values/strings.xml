@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ARrival</string>
+    <string name="api_key">iBOusyRMorda4N+I3IvxIUDCV7+y7dVeNFNGlx+R0RbZQd5UgWptrtA6iPF+BRvaRwlqco0ef7BJ4eg1GV2dpkHJAiGuuNn9eacGe0BWzYoNLL1crCQnIDYn6WzW8lZQJ6YB/NK6UoXrvvfC20vkcTLbAq1OCVaxne5EKIwtH5A/M1O7+Gd8EcnRDJVxy7q5iiHY4i7Gzxh8En6kFsVyLhtnHPLpogtrcL6kUUWf9qIPszwZ/2FvkuNm48fp/YcSyNg0lCMPv8DwVyZbwZMk6mr5KfGZbsklHp7HGB+1DytYWZNtL701Kkp6ncW25+3lOrEJyjYPV9MuCebReRr/O3wvgseom7zXsLtt1tkQTKKcw51LTl11UjQburkX1pgrWODGYlQrmDXwcJCbw3gIoyaBCbC4x7/qq/SkbvdiV/gg4+HsbkmUaWUtT8buxZ8To+4YZO3Sb9IO04q53Jo9Uv4M58eKi4Dr0dPz5qc30DBLYvg8YKlElJYvj52hEeMJK2lM5VbncMKz5+S9I3JTMjhcmCPoaZftdJpAHRgbdN6plybFtak1E9kaGyY6ClfUa7t54CgfLQ7JVpkHSxR39O3ClP6/783CeT2193Vx9hlVoyW4rJsUNAGAwNUs/BnPoMttnreb3zFZZnGIFSS2sYf9bIH1chK2g93ykTCrkXY=</string>
+    <string name="no_permission_title">Permissions Requred</string>
+    <string name="no_permission_body">Please enable request permissions in the app settings to use the application</string>
+</resources>
