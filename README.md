@@ -1,3 +1,3 @@
 # ARrival
 
-ARRival is Augmented Reality Bus Schedules mobile app, developed as part of P532 Object Oriented Software Development course. The app uses Kudan AR SDK and Firebase Realtime database for the backend and was developed using Android SDK.
+ARRival is an augmented reality bus schedules mobile app for android which uses device location and time to display bus schedules at the nearest bus stop.
